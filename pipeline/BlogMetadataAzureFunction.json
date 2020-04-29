@@ -309,7 +309,7 @@
 			},
 			"ADLSGen2FileSystem": {
 				"type": "string",
-				"defaultValue": "DHBWSQLDB"
+				"defaultValue": "dhbwdatalakegen2"
 			},
 			"ADLSGen2Stor": {
 				"type": "string",
