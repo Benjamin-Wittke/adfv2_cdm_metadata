@@ -336,11 +336,11 @@
 			},
 			"ADLSGen2FileSystem": {
 				"type": "string",
-				"defaultValue": "sqldbdata"
+				"defaultValue": "0"
 			},
 			"ADLSGen2Stor": {
 				"type": "string",
-				"defaultValue": "blogadlsgen2stor"
+				"defaultValue": "0"
 			}
 		},
 		"variables": {
