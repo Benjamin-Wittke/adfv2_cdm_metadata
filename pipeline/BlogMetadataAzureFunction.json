@@ -309,7 +309,7 @@
 			},
 			"ADLSGen2FileSystem": {
 				"type": "string",
-				"defaultValue": "Test"
+				"defaultValue": "test"
 			},
 			"ADLSGen2Stor": {
 				"type": "string",
