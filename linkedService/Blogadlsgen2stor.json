@@ -1,12 +1,12 @@
 {
 	"name": "Blogadlsgen2stor",
-	"type": "Microsoft.DataFactory/factories/linkedservices",
 	"properties": {
+		"description": "ewrewrr",
 		"annotations": [],
 		"type": "AzureBlobFS",
 		"typeProperties": {
-			"url": "https://blogadlsgen2stor.dfs.core.windows.net"
-		},
-		"description": "ewrewrr"
-	}
+			"url": "https://dhbwdatalakegen2.dfs.core.windows.net"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/linkedservices"
 }
