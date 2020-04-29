@@ -309,11 +309,11 @@
 			},
 			"ADLSGen2FileSystem": {
 				"type": "string",
-				"defaultValue": "0"
+				"defaultValue": "Test"
 			},
 			"ADLSGen2Stor": {
 				"type": "string",
-				"defaultValue": "0"
+				"defaultValue": "dhbwdatalakegen2"
 			}
 		},
 		"variables": {
